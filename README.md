@@ -3,7 +3,7 @@ This is a simple code to have a custom Rich Presence on your Discord profile tha
 
 the requirements :
 
-[Link to Node.js](https://nodejs.org/en/)
+- [Link to Node.js](https://nodejs.org/en/)
 
 How it works:
 
