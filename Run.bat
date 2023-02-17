@@ -2,6 +2,6 @@
 title Rich Presence
 :START 
 node .
-echo le programme est fermer voulez vous le relancer ?
+echo the program is closed do you want to restart it ?
 pause
 goto :START
